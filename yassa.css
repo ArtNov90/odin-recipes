@@ -1,0 +1,28 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  h1 {
+    color: crimson;
+    text-align: center;
+    text-decoration: wavy;
+    
+
+  }
+
+  h2{
+    color: blueviolet;
+    text-align: center;
+
+
+  }
+
+  .title{
+    color: blueviolet;
+    text-align: center;
+    font-size: 18pxS;
+
+  }
+
