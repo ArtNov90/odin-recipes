@@ -1,0 +1,22 @@
+.title{
+    background-color: brown;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: black;
+    color: brown;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
